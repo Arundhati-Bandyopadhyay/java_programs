@@ -29,7 +29,9 @@ public class Constructor {
        MyEmployee tinni=new MyEmployee("arundhti", 5);
        
         System.out.println(tinni.getName());
-        System.out.println(tinni.getId());
+   
+       System.out.println(tinni.getId());
+
 
     }
 } 
